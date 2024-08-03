@@ -1,9 +1,9 @@
 # PCCP_Study
 
-![GitHub contributors](https://img.shields.io/github/contributors/Woni0204/Coding_Study)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Woni0204/Coding_Study)
-[![GitHub issues](https://img.shields.io/github/issues/Woni0204/Coding_Study?color=%232da44e)](https://github.com/Woni0204/Coding_Study/issues)
-[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Woni0204/Coding_Study?color=%238250df)](https://github.com/Woni0204/Coding_Study/pulls)
+![GitHub contributors](https://img.shields.io/github/contributors/Woni0204/PCCP_Study)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Woni0204/PCCP_Study)
+[![GitHub issues](https://img.shields.io/github/issues/Woni0204/PCCP_Study?color=%232da44e)](https://github.com/Woni0204/PCCP_Study/issues)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Woni0204/PCCP_Study?color=%238250df)](https://github.com/Woni0204/PCCP_Study/pulls)
 
 ### 구성원 (Study Member)
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
